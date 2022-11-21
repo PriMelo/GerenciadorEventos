@@ -1,0 +1,39 @@
+__________________Evento___________________
+Id: #0#.
+nome: %niver%.
+
+--------------Gastos------------
+Total do Evento: 0.0
+__________________Evento___________________
+Id: #1#.
+nome: %lanche%.
+
+--------------Gastos------------
+Id do gasto: ç1ç.
+Nome do gasto: @agua@.
+Preco unitario do gasto: &2.0&.
+Quantidade de itens: ;10;.
+
+Id do gasto: ç3ç.
+Nome do gasto: @biscoito@.
+Preco unitario do gasto: &8.0&.
+Quantidade de itens: ;20;.
+
+Total do Evento: 180.0
+__________________Evento___________________
+Id: #2#.
+nome: %batizado%.
+
+--------------Gastos------------
+Total do Evento: 0.0
+__________________Evento___________________
+Id: #3#.
+nome: %prifolia%.
+
+--------------Gastos------------
+Id do gasto: ç4ç.
+Nome do gasto: @doce@.
+Preco unitario do gasto: &20.0&.
+Quantidade de itens: ;4;.
+
+Total do Evento: 80.0
